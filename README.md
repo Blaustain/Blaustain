@@ -2,7 +2,7 @@
 ## Olá, meu nome é : Samuel Souza. 👋
 ***Cursando bacharelado em tecnologia da informação (Univesp).
 Estudando linguagens de programaçã.***
-
+<hr>
 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  **JAVA.**       
 
@@ -21,4 +21,4 @@ Estudando linguagens de programaçã.***
 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> **TypeScript.**
 
-  <th></th>
+  
